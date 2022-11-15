@@ -1,4 +1,4 @@
-# Dokumentasi REST API
+# Dokumentasi Web Service dan REST API
 
 ## Auth
 - Register `baseURL/auth/register` 
